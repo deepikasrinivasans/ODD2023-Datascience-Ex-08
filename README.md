@@ -142,88 +142,98 @@ plt.show()
 # OUTPUT
 
 #### Initial data:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/8a6cd603-a006-48ae-a544-bbe01b360f54)
+![d1](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/832a4d99-35ce-4b47-bd44-891d2319d4d7)
 
 #### Data information:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/c69ce3ba-902a-41f4-93e8-43d06b05f4b5)
+![d2](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/6c66fc82-e438-4a81-8c5c-bb7df6ef1137)
+
 
 #### Null values:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/ec68324f-b907-4c59-a7ed-98ee54dec44b)
+![d3](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/a01e96ae-abd4-403b-832d-92a1b646f4f0)
+
 
 ### Data visualization using Seaborn
 
 #### Lineplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/a5079f5b-e1a2-429a-9a17-117d41da277f)
 
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/d01edbed-cce5-4beb-93d2-32b936ea2151)
+![d4](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/302b45b0-9578-4f51-a22d-3846e4922ae9)
+
+![d5](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/24c6924a-d9c3-45b2-a3b0-8bc32f3a4512)
 
 
 #### Barchart:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/24050a1d-8d2a-4168-ab1d-329b69418227)
+![d6](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/686fa92d-38c0-41eb-920d-0ba58fdb8e3a)
 
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/1dba40a6-8630-49fa-9760-e72870c1b364)
+![d7](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/72c8fb0e-254a-4030-9774-6cdbf62f7b23)
+
+
 
 #### Scatterplot:
 
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/2d7a2798-6857-4aa0-8206-14559a03851b)
+![d8](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/27d6a4e4-d8cb-4b9a-9b2a-bf66091780e6)
+
+![d9](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/1100dda4-6047-465b-9c5a-ed0cd11a38dc)
 
 
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/2baa7ff8-a63d-49b3-b21b-233da9afbffe)
 
 #### Boxplot:
 
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/928a9078-6c77-492d-b8c6-b32230d1678f)
+![d10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/d2808e40-7a4f-4aa3-8e5b-3e28b72048cc)
 
 
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/ba57c273-1345-4a6c-ba59-d2fa1ee0759f)
+![d11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/62b3bc24-8726-4b5b-801b-996184e9de44)
+
 
 
 #### Pointplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/efbda28e-f061-4ab8-90e9-eb327c921a19)
+![d12](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/f86a791f-e2c6-46cd-ac0b-775d8ae24c62)
 
 
 #### Violinplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/3e65819f-7dfe-49e4-9fb7-938c16d54c2b)
+![d13](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/e7b68bea-4d96-42a6-aae8-93dc0c0fa7c5)
 
 
 #### Countplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/7b772059-76a0-4b80-b876-572fce0ccdc0)
+![d14](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/3d20efc0-7fc7-4fe0-98d1-84b16c7db44f)
 
 #### Histogram:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/ff929223-c6ee-42fd-86da-2342f2d32883)
+![d15](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/dec7512b-f95b-44d3-bc19-96e896984b33)
 
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/472f45bd-401f-4258-8d3f-899d72500355)
+
+![d16](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/c40dd80d-e2a0-4022-8292-c7e958393a0f)
 
 #### KDEplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/f9c9264f-73b2-4557-9378-bc1729a06dcf)
-
+![d17](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/2fb04814-a0cd-4c2b-9d44-264e9d0886bd)
 
 ### Data visualization using Matplot
 
 #### Plot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/862d50e8-90d3-457d-bcc5-9dbebc9a3413)
+
+![d18](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/3641b192-023e-4b30-b53e-dc3609243aa8)
 
 
 #### Heatmap:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/93948726-d681-49b5-85f7-a161fd56ba06)
+![d19](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/214b3801-c274-4c3c-a938-7b9042225489)
+
 
 #### Piechart:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/01b43bc5-f60a-44f3-a2ec-573590318cab)
+![d20](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/7f1ecd4e-0182-4d93-9589-1421094f3801)
 
 
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/29645ce1-09dc-4864-8f46-cbc48c3adfdb)
+![d21](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/f0f456f5-5a72-46ef-95b5-67e9ff4c65d4)
 
 
 #### Histogram:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/2575ba1f-980d-403d-a3dc-3cd1917a32df)
+![d22](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/0584a7d8-c709-42c3-adfe-db32c0ba58bf)
 
 
 #### Barplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/3a9ee75a-b70d-4be0-8fdf-535b850311c2)
+![d23](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/c52a89c3-73b6-43cd-9132-fea7c163b588)
+
 
 #### Scatterplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/be654174-1235-40a0-8ccf-dd780e91d5af)
 
+![d24](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/de39b597-d3e6-4317-8a5e-a8194745d3ad)
 
 #### Boxplot:
 ![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/ad7fcedc-f1a9-4e18-a6b0-247d3fcb01dd)
