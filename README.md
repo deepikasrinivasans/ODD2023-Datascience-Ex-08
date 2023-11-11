@@ -218,25 +218,29 @@ plt.show()
 
 #### Piechart:
 ![d20](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/7f1ecd4e-0182-4d93-9589-1421094f3801)
-
-
-![d21](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/f0f456f5-5a72-46ef-95b5-67e9ff4c65d4)
+![pie](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/c3180ce3-94ad-441b-b6a7-658de85b5199)
 
 
 #### Histogram:
+![d21](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/f0f456f5-5a72-46ef-95b5-67e9ff4c65d4)
+
 ![d22](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/0584a7d8-c709-42c3-adfe-db32c0ba58bf)
 
 
 #### Barplot:
+![d22](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/0584a7d8-c709-42c3-adfe-db32c0ba58bf)
+
 ![d23](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/c52a89c3-73b6-43cd-9132-fea7c163b588)
 
 
 #### Scatterplot:
+![d23](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/c52a89c3-73b6-43cd-9132-fea7c163b588)
 
-![d24](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/de39b597-d3e6-4317-8a5e-a8194745d3ad)
+
 
 #### Boxplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-08/assets/119393675/ad7fcedc-f1a9-4e18-a6b0-247d3fcb01dd)
+![d24](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/de39b597-d3e6-4317-8a5e-a8194745d3ad)
+
 
 ## Result :
 Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
