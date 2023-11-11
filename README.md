@@ -180,7 +180,6 @@ plt.show()
 ![pie](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/c3180ce3-94ad-441b-b6a7-658de85b5199)
 #### Histogram:
 ![d21](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/f0f456f5-5a72-46ef-95b5-67e9ff4c65d4)
-![d22](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/0584a7d8-c709-42c3-adfe-db32c0ba58bf)
 #### Barplot:
 ![d22](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-08/assets/119393935/0584a7d8-c709-42c3-adfe-db32c0ba58bf)
 #### Scatterplot:
